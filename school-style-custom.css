@@ -12,7 +12,7 @@ body {
 .main-container-unique {
     width: 85%;
     max-width: 900px;
-    background-color: #7d5a94; 
+    background-color: #7d5a94; /* Purple tone */
     border-radius: 20px;
     box-shadow: 0 15px 35px rgba(0,0,0,0.4);
     overflow: hidden;
